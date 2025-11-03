@@ -1,11 +1,5 @@
----
 
-### 3. **Add GitHub Actions workflow**
-
-Create the following directory and file:
-
-And add this content:
-
+```yaml
 name: Deploy to GitHub Pages
 
 on:
